@@ -1,6 +1,6 @@
 # vue-expressapi-backend
 
-
+Technologies used : Node JS, Express JS, SQLite
 ## Project Structure
 
 - **Framework**: 
